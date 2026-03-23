@@ -15,7 +15,7 @@ The model introduces two novel modules:
 The method achieves **79.49% IoU** and **88.57% F1‑score** on a West African test set, outperforming UNet, DeepLabV3+, and other state‑of‑the‑art networks.
 
 ## 📦 Associated Product
-Our training and test datasets and the 10 m settlement products for four West African regions (Kebbi, Nasarawa, Sassandra‑Marahoué, Mamou) are freely available via [Figshare](https://doi.org/10.6084/m9.figshare.31829476).
+The 10 m settlement products for four West African regions (Kebbi, Nasarawa, Sassandra‑Marahoué, Mamou) are freely available via [Figshare](https://doi.org/10.6084/m9.figshare.31829476).
 
 
 ## 🚀 Getting Started
