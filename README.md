@@ -33,7 +33,7 @@ The 10 m settlement products for four West African regions (Kebbi, Nasarawa, S
 
 This project is built upon the following open-source libraries:
 
-- [MMCV](https://github.com/open-mmlab/mmcv) – foundational computer vision library
-- [MMPretrain](https://github.com/open-mmlab/mmpretrain) – pre-training toolkit
-- [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) – semantic segmentation toolbox
-
+- [MMCV](https://github.com/open-mmlab/mmcv) 
+- [MMPretrain](https://github.com/open-mmlab/mmpretrain)
+- [MMSegmentation](https://github.com/open-mmlab/mmsegmentation)
+- [FreqFusion](https://github.com/Linwei-Chen/FreqFusion)
