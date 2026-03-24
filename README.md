@@ -4,7 +4,19 @@
 ---
 
 ## 🔍 Overview
+<p align="center">
+  <img src="main/figure/modelArchitecture.png" alt="FFEF-Net architecture" width="100%">
+</p>
+<p align="center">
+  <em>FFEF‑Net architecture.</em>
+</p>
 
+<p align="center">
+  <img src="main/figure/urban.png" alt="Urban settlement mapping result" width="100%">
+</p>
+<p align="center">
+  <em>Example urban settlement extraction (Daloa, Côte d'Ivoire).</em>
+</p>
 **FFEF-Net** is a deep learning framework designed for precise **settlement segmentation** from SDGSAT‑1 multispectral imagery. 
 
 The model introduces two novel modules:
