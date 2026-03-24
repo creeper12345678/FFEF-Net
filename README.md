@@ -18,7 +18,11 @@ The method achieves **79.49% IoU** and **88.57% F1‑score** on a West African t
 The 10 m settlement products for four West African regions (Kebbi, Nasarawa, Sassandra‑Marahoué, Mamou) are freely available via [Figshare](https://doi.org/10.6084/m9.figshare.31829476).
 
 
-## 🚀 Getting Started
+## 🙏 Acknowledgements
 
-Our codebase is built upon MMsegmentation
+This project is built upon the following open-source libraries:
+
+- [MMCV](https://github.com/open-mmlab/mmcv) – foundational computer vision library
+- [MMPretrain](https://github.com/open-mmlab/mmpretrain) – pre-training toolkit
+- [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) – semantic segmentation toolbox
 
