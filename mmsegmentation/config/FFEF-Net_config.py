@@ -38,13 +38,13 @@ model = dict(
             lowpass_kernel=5,  
             highpass_kernel=5, 
             compressed_channels=256,  
-            feature_resample=True, 
-            comp_feat_upsample=True,
+            feature_resample=False, 
+            comp_feat_upsample=False,
             use_high_pass=True,
             use_low_pass=True,
             hr_residual=True,
             hamming_window=True,
-            align_corners=True,
+            align_corners=False,
            )),
 
    
