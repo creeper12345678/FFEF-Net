@@ -5,14 +5,14 @@
 
 ## 🔍 Overview
 <p align="center">
-  <img src="main/figure/modelArchitecture.png" alt="FFEF-Net architecture" width="100%">
+  <img src="./figure/modelArchitecture.png" alt="FFEF-Net architecture" width="100%">
 </p>
 <p align="center">
   <em>FFEF‑Net architecture.</em>
 </p>
 
 <p align="center">
-  <img src="main/figure/urban.png" alt="Urban settlement mapping result" width="100%">
+  <img src="./figure/urban.png" alt="Urban settlement mapping result" width="100%">
 </p>
 <p align="center">
   <em>Example urban settlement extraction (Daloa, Côte d'Ivoire).</em>
